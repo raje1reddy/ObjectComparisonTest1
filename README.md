@@ -1,5 +1,5 @@
 # ObjectComparisonTest1
-Object comparison test
+Object comparison test equals method
 
 travis link[![Build Status](https://travis-ci.org/raje1reddy/ObjectComparisonTest1.svg?branch=master)]
 
