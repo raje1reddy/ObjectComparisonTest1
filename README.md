@@ -5,3 +5,12 @@ travis link[![Build Status](https://travis-ci.org/raje1reddy/ObjectComparisonTes
 
 
 code coverage link[![codecov](https://codecov.io/gh/raje1reddy/ObjectComparisonTest1/branch/master/graph/badge.svg)]
+
+
+
+
+
+[![codecov](https://codecov.io/gh/raje1reddy/ObjectComparisonTest1/branch/master/graph/badge.svg)](https://codecov.io/gh/raje1reddy/ObjectComparisonTest1)
+
+[![Build Status](https://travis-ci.org/raje1reddy/ObjectComparisonTest1.svg?branch=master)](https://travis-ci.org/raje1reddy/ObjectComparisonTest1)
+
